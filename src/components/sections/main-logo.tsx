@@ -11,7 +11,7 @@ const MainLogo = () => {
       <img 
         src="https://i.imgur.com/aTIJl8f.png" 
         alt="Louis Vuitton Logo" 
-        className="h-10 sm:h-25 w-25 object-contain transition-all duration-700 hover:brightness-110"
+        className="h-8 sm:h-23 w-25 object-contain transition-all duration-700 hover:brightness-110"
       />
     </div>
   );
